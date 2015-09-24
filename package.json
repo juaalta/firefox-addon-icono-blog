@@ -1,0 +1,14 @@
+{
+  "title": "Icono blog Cosillas de Juansal",
+  "name": "icono-blog-cosillas-de-juansal",
+  "id": "jid0-q3ungvhJZPS76QgOLZ7TLp9qspk@jetpack",
+  "version": "1.6.1",
+  "description": "Icono y entrada de menu de contexto de acceso a mi blog:\nCosillas de Juansal.",
+  "main": "index.js",
+  "author": "juansal",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MPL 2.0"
+}

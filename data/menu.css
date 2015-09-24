@@ -1,0 +1,43 @@
+#menuPanel
+{
+    background-color: #629cd1;
+}
+
+#menuv {
+	border: 1px solid #ACCFE8;
+	width: 180px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 80%;
+	font-style: normal;
+	line-height: normal;
+}
+#menuv ul, li {
+        list-style-type: none;
+}
+
+#menuv ul {
+        margin: 0;
+        padding: 0;
+}
+
+#menuv li {
+	border: 1px solid #3d97e3;
+	width: 178px;
+}
+
+#menuv a {
+	text-decoration: none;
+	color: #3d97e3;
+	background: #d8e4ff;
+	display: block;
+	width: 166px;
+	padding-top: 3px;
+	padding-right: 6px;
+	padding-bottom: 3px;
+	padding-left: 6px;
+}
+
+#menuv a:hover {
+	background-color: d8e4ff;
+	color: #666;
+}
