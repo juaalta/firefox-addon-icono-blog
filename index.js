@@ -28,7 +28,7 @@ var self = require("sdk/self");
 
 var button = ToggleButton({
   id: "my-button",
-  label: "my button",
+  label: "Blog Cosillas de Juansal",
   icon: {
     "16": "./icon-16.png",
     "32": "./icon-32.png",
