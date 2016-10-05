@@ -1,0 +1,6 @@
+sudo: false
+env:
+  matrix:
+  - BROWSER=firefox EXT=xpi
+
+all_branches: true
