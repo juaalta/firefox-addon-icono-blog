@@ -41,8 +41,8 @@ var button = ToggleButton({
 });
 
 var panel = panels.Panel({
-	  width: 200,
-  height: 125,
+	  width: 205,
+  height: 150,
   contentURL: self.data.url("menu.html"),
   onHide: handleHide
 });
