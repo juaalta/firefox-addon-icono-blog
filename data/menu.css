@@ -5,7 +5,7 @@
 
 #menuv {
 	border: 1px solid #ACCFE8;
-	width: 180px;
+	width: 190px;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 80%;
 	font-style: normal;
@@ -18,11 +18,23 @@
 #menuv ul {
         margin: 0;
         padding: 0;
+		width: 185
 }
 
 #menuv li {
 	border: 1px solid #3d97e3;
-	width: 178px;
+	width: 185px;
+}
+
+#menuv li ul {
+        margin: 0 0 0 5;
+        padding: 0;
+		width: 180px;
+}
+
+#menuv li ul li {
+	border: 1px solid #3d97e3;
+	width: 173px;
 }
 
 #menuv a {
@@ -30,11 +42,16 @@
 	color: #3d97e3;
 	background: #d8e4ff;
 	display: block;
-	width: 166px;
+	width: 177px;
 	padding-top: 3px;
 	padding-right: 6px;
 	padding-bottom: 3px;
 	padding-left: 6px;
+}
+
+#menuv li ul li a {
+	border: 1px solid #3d97e3;
+	width: 170px;
 }
 
 #menuv a:hover {
